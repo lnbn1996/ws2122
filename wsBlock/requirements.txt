@@ -13,7 +13,7 @@ get==1.0.3
 idna==2.7
 itsdangerous==1.1.0
 jdcal==1.4
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.0
 Naked==0.1.31
 numpy==1.15.3
